@@ -2,6 +2,8 @@
 
 ## A simple react app that displays flats and uses [Google Map React](https://github.com/google-map-react/google-map-react) to show their location:
 
+![image](assets/images/flats.gif)
+
 ## Created with Le Wagon [boilerplate](https://github.com/lewagon/react-boilerplate) using the following config:
 
 - React, ReactDOM
